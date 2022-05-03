@@ -36,7 +36,7 @@ Retrieve weather data using APIs, clean data with pandas, plot data onto a map, 
 
 - Using google maps marker layer I added the detailed information for each stop, then using the destinations layer I applied the trip directions (via car) while making sure to hide the markers to prevent it from covering the marker layer information.
 
-# Google Map API Results
+# Google Maps Results
 
 ![hotel_map](https://github.com/Ryndine/gmaps_api_vacation/blob/main/Images/hotel_map.jpg)
 
