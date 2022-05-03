@@ -1,4 +1,4 @@
-# Weather Travel Analysis
+# Google Maps API - Vacation Itinerary
 
 ## Objective: 
 Retrieve weather data using APIs, clean data with pandas, plot data onto a map, and create a travel itinerary for users.
