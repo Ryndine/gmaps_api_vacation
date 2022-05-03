@@ -1,7 +1,7 @@
 # Google Maps API - Vacation Itinerary
 
 ## Objective: 
-Retrieve weather data using APIs, clean data with pandas, plot data onto a map, and create a travel itinerary for users.
+Using open weather map and google maps APIs to generate trip data based on a users preferred weather conditions, then create a trip itinerary using google destinations API.
 
 ## Tools used:
 - Jupyter
