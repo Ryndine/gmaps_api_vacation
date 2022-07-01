@@ -18,7 +18,7 @@ Using open weather map and google maps APIs to generate trip data based on a use
 
 - Next I want the user to be able to select places based the on the weather conditions they prefer to have during their travels. So after creating a list of cities, I'm going to use the cities and run an API call to "openweathermap" in order to retrieve the weather data on each city as well as further information like the country the city is located.
 
-- After the data is collected form the API call, I'm storing everyhing in a pandas dataframe for use later.
+- After the data is collected from the API call, I'm storing everyhing in a pandas dataframe for use later.
 
 **Hotel data:**
 
